@@ -1,6 +1,8 @@
 # YuzuEaUpdater
 This lightweight, python based, application provides user friendly access to Yuzu Early Releases from the _**pineappleEA/pineapple-src**_ repository. 
 
+[ SOURCE FILES Coming Soon ]
+
 ## IMPORTANT
 This updater assumes you have a _yuzu directory_ with a _yuzu-windows-msvc_ directory in you **%LocalAppData%**
 + %LocalAppData%\yuzu **[ REQUIRED DIR ]**
