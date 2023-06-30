@@ -1,4 +1,7 @@
-[![Github All Releases](https://img.shields.io/github/downloads/ib4error/YuzuEAUpdater/total.svg)]()
+![GitHub Release](https://img.shields.io/github/v/release/ib4error/YuzuEAUpdater?style=for-the-badge)
+![GitHub license](https://img.shields.io/github/license/ib4error/YuzuEAUpdater?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/ib4error/YuzuEAUpdater?style=for-the-badge)
+![GitHub all releases](https://img.shields.io/github/downloads/ib4error/YuzuEAUpdater/total?style=for-the-badge)
 
 # YuzuEaUpdater
 This lightweight, python based, application provides user friendly access to Yuzu Early Releases from the _**pineappleEA/pineapple-src**_ repository. 
